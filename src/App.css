@@ -1,0 +1,13 @@
+.container {
+  max-width: 1080px;
+  margin: 20px auto;
+}
+
+.topRight {
+  width: 85%;
+  /* display: flex;
+  align-items: center; */
+  margin-bottom: 50px;
+  padding: auto;
+  align-self: center;
+}
