@@ -4,7 +4,7 @@
 This is a weather forecasting application built using the ReactJS framework. It fetches data from the OpenWeather API and GeoDB Cities API to provide accurate weather forecasts for cities around the world.
 
 ## Live Demo
-The application is deployed on Netlify. You can access it here. [Live Link](https://weather-forecast-aks.netlify.app/)
+The application is deployed on Netlify. You can access it here. [Live Link](https://weather-forecast-ask.netlify.app/)
 
 ## Technologies Used
 - JavaScript (JS)
